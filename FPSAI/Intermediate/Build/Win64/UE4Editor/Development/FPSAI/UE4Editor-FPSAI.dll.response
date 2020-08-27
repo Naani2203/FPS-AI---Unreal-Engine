@@ -35,11 +35,13 @@
 /FUNCTIONPADMIN
 "C:\Users\snsth\OneDrive\Documents\GitUnreal\FPS AI - Unreal Engine\FPSAI\Intermediate\Build\Win64\FPSAIEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
 "C:\Users\snsth\OneDrive\Documents\GitUnreal\FPS AI - Unreal Engine\FPSAI\Intermediate\Build\Win64\UE4Editor\Development\FPSAI\FPSCharacter.cpp.obj"
+"C:\Users\snsth\OneDrive\Documents\GitUnreal\FPS AI - Unreal Engine\FPSAI\Intermediate\Build\Win64\UE4Editor\Development\FPSAI\FPSWeapon.cpp.obj"
 "C:\Users\snsth\OneDrive\Documents\GitUnreal\FPS AI - Unreal Engine\FPSAI\Intermediate\Build\Win64\UE4Editor\Development\FPSAI\FPSAI.cpp.obj"
 "C:\Users\snsth\OneDrive\Documents\GitUnreal\FPS AI - Unreal Engine\FPSAI\Intermediate\Build\Win64\UE4Editor\Development\FPSAI\FPSAIGameModeBase.cpp.obj"
 "C:\Users\snsth\OneDrive\Documents\GitUnreal\FPS AI - Unreal Engine\FPSAI\Intermediate\Build\Win64\UE4Editor\Development\FPSAI\FPSAI.init.gen.cpp.obj"
 "C:\Users\snsth\OneDrive\Documents\GitUnreal\FPS AI - Unreal Engine\FPSAI\Intermediate\Build\Win64\UE4Editor\Development\FPSAI\FPSAIGameModeBase.gen.cpp.obj"
 "C:\Users\snsth\OneDrive\Documents\GitUnreal\FPS AI - Unreal Engine\FPSAI\Intermediate\Build\Win64\UE4Editor\Development\FPSAI\FPSCharacter.gen.cpp.obj"
+"C:\Users\snsth\OneDrive\Documents\GitUnreal\FPS AI - Unreal Engine\FPSAI\Intermediate\Build\Win64\UE4Editor\Development\FPSAI\FPSWeapon.gen.cpp.obj"
 "C:\Users\snsth\OneDrive\Documents\GitUnreal\FPS AI - Unreal Engine\FPSAI\Intermediate\Build\Win64\UE4Editor\Development\FPSAI\Default.rc2.res"
 "delayimp.lib"
 "wininet.lib"

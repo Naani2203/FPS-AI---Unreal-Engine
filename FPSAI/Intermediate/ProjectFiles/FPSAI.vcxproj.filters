@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\FPSAI.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{0D124235-AEA6-4459-BEA6-9198935DC35E}</UniqueIdentifier>
+      <UniqueIdentifier>{81251C4B-CA76-4822-A92B-D423393A2C76}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\FPSAI.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{E982580B-5E9D-4BC5-AF67-5359BCEBBDFD}</UniqueIdentifier>
+      <UniqueIdentifier>{7CF598D1-EF2D-40DC-93B3-42015BA23E82}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -23,8 +23,11 @@
     <None Include="..\..\Config\DefaultGame.ini">
       <Filter>Config</Filter>
     </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
     <Filter Include="Source\FPSAI">
-      <UniqueIdentifier>{0EA98C7C-7CFC-4F8C-AA6E-8DC03ED447E5}</UniqueIdentifier>
+      <UniqueIdentifier>{CA022247-A9CD-4305-A7EF-EDAC02BB5712}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\FPSAI\FPSAI.Build.cs">
       <Filter>Source\FPSAI</Filter>
@@ -42,15 +45,21 @@
       <Filter>Source\FPSAI</Filter>
     </ClInclude>
     <Filter Include="Source\FPSAI\Private">
-      <UniqueIdentifier>{70048FA6-4603-4240-9853-1C5B6B8180BA}</UniqueIdentifier>
+      <UniqueIdentifier>{26FD8341-6EA1-4E09-A1BE-29740AA37827}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\FPSAI\Private\FPSCharacter.cpp">
       <Filter>Source\FPSAI\Private</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\FPSAI\Private\FPSWeapon.cpp">
+      <Filter>Source\FPSAI\Private</Filter>
+    </ClCompile>
     <Filter Include="Source\FPSAI\Public">
-      <UniqueIdentifier>{40529736-0234-46D2-8457-BB7571148B25}</UniqueIdentifier>
+      <UniqueIdentifier>{D3503A58-C4E7-4DE7-A4F2-CC8254FA1A6F}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Source\FPSAI\Public\FPSCharacter.h">
+      <Filter>Source\FPSAI\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\FPSAI\Public\FPSWeapon.h">
       <Filter>Source\FPSAI\Public</Filter>
     </ClInclude>
   </ItemGroup>

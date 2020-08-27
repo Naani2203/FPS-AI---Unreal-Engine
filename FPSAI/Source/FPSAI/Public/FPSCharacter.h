@@ -8,6 +8,7 @@
 
 
 class UCameraComponent;
+class USpringArmComponent;
 
 UCLASS()
 class FPSAI_API AFPSCharacter : public ACharacter
@@ -26,8 +27,17 @@ protected:
 
 	void MoveRight(float value);
 
+	void BeginCrouch();
+
+	void EndCrouch();
+
 	UPROPERTY(VisibleAnywhere,BlueprintReadOnly,Category="Components")
 	UCameraComponent* CameraComponent;
+
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Components")
+	USpringArmComponent* SpringArmComponent;
+
+	virtual FVector GetPawnViewLocation() const override;
 
 public:	
 	// Called every frame
