@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\snsth\\OneDrive\\Documents\\GitUnreal\\FPS AI - Unreal Engine\\FPSAI\\Source\\FPSAI\\FPSAI.Build.cs",
+		"C:\\Users\\snsth\\OneDrive\\Documents\\GitUnreal\\FPS AI - Unreal Engine\\FPSAI\\Source\\FPSAI.Target.cs",
+		"C:\\Users\\snsth\\OneDrive\\Documents\\GitUnreal\\FPS AI - Unreal Engine\\FPSAI\\Source\\FPSAIEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.3"
+}

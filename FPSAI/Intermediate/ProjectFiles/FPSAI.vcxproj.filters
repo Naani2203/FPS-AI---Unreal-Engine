@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\FPSAI.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{0D124235-AEA6-4459-BEA6-9198935DC35E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FPSAI.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\FPSAIEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{E982580B-5E9D-4BC5-AF67-5359BCEBBDFD}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\FPSAI">
+      <UniqueIdentifier>{0EA98C7C-7CFC-4F8C-AA6E-8DC03ED447E5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FPSAI\FPSAI.Build.cs">
+      <Filter>Source\FPSAI</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\FPSAI\FPSAI.cpp">
+      <Filter>Source\FPSAI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPSAI\FPSAI.h">
+      <Filter>Source\FPSAI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPSAI\FPSAIGameModeBase.cpp">
+      <Filter>Source\FPSAI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPSAI\FPSAIGameModeBase.h">
+      <Filter>Source\FPSAI</Filter>
+    </ClInclude>
+    <Filter Include="Source\FPSAI\Private">
+      <UniqueIdentifier>{70048FA6-4603-4240-9853-1C5B6B8180BA}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\FPSAI\Private\FPSCharacter.cpp">
+      <Filter>Source\FPSAI\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\FPSAI\Public">
+      <UniqueIdentifier>{40529736-0234-46D2-8457-BB7571148B25}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\FPSAI\Public\FPSCharacter.h">
+      <Filter>Source\FPSAI\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

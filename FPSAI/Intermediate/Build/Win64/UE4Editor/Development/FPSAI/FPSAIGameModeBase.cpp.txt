@@ -1,0 +1,7 @@
+C:\Users\snsth\OneDrive\Documents\GitUnreal\FPS AI - Unreal Engine\FPSAI\Intermediate\Build\Win64\UE4Editor\Development\FPSAI\Definitions.FPSAI.h
+C:\Users\snsth\OneDrive\Documents\GitUnreal\FPS AI - Unreal Engine\FPSAI\Source\FPSAI\FPSAIGameModeBase.h
+D:\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\snsth\OneDrive\Documents\GitUnreal\FPS AI - Unreal Engine\FPSAI\Intermediate\Build\Win64\UE4Editor\Inc\FPSAI\FPSAIGameModeBase.generated.h

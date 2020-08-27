@@ -1,0 +1,2 @@
+C:\Users\snsth\OneDrive\Documents\GitUnreal\FPS AI - Unreal Engine\FPSAI\Intermediate\Build\Win64\UE4Editor\Development\FPSAI\Definitions.FPSAI.h
+C:\Users\snsth\OneDrive\Documents\GitUnreal\FPS AI - Unreal Engine\FPSAI\Source\FPSAI\FPSAI.h

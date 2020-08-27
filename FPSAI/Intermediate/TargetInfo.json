@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FPSAI",
+			"Path": "C:\\Users\\snsth\\OneDrive\\Documents\\GitUnreal\\FPS AI - Unreal Engine\\FPSAI\\Source\\FPSAI.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FPSAIEditor",
+			"Path": "C:\\Users\\snsth\\OneDrive\\Documents\\GitUnreal\\FPS AI - Unreal Engine\\FPSAI\\Source\\FPSAIEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
